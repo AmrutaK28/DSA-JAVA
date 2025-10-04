@@ -1,0 +1,14 @@
+# Ignore compiled Java class files
+*.class
+
+# Common Java/IDE build artifacts
+target/
+out/
+
+# IDE/editor folders
+.idea/
+.vscode/
+
+# Misc
+.DS_Store
+*.log
